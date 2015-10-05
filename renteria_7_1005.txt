@@ -1,0 +1,2 @@
+code comments are used to comment on code programs by useing // or /* 
+this allows users to comment with out effecting code 
