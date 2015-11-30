@@ -1,0 +1,3 @@
+make a counter to show how many problems have progresses on to the next problem
+make condutions if the player dose this that it will effect a counter by subtracting or adding a number 
+creat a boolean of pick up then true then have if scanner yes the place in a class called itens and have the played the abilty to be able to call it back out
