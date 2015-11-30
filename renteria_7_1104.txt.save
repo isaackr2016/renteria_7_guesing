@@ -1,0 +1,8 @@
+methods are like small programs in a big program.
+I used a method that repeated the program when the anser was wrong/false.
+I also used a method to only allow false to repeat a sertian number of times 
+this is the count mehtod. 
+the while loop was for the number of time the core program 
+I used the while loop to again repeat my boolean every time the boolean was
+false and the counter to again count the number of times the answer can be 
+false   
