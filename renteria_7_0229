@@ -1,0 +1,48 @@
+ 1. How do we make a class? What code comes at the beginning?
+
+left click new class name the class 
+then its public class Helloworld();
+
+2. Donut Bismarck = new Donut();
+is this a class constructor?
+no is a geter and setter
+no because a class constructor is a mehtod in side a class that
+ allows you to set varible of that class and how we creat instances of that class
+this thing uses a class constructor to creat an instance  
+3. How do we make a class with values and a class constructor?
+public class Douut {
+int x,y;
+boolean is Glazed;
+boolean has jelly ; 
+float tempture 
+public Dounut (boolean a , boolena b, float c){
+ this.is Glazed=a;
+this.hasJJelly=b
+this.tempture=c;
+// a getter gets a value usaly a public method 
+}
+public boolean getHasjelly(){
+return this.hasjelly;}
+public void set Tempture(float c){
+	this,tempture = c;
+}
+
+
+
+breakfest [] jarzombekfabreakfest;
+breakfest joseph= new beakfest (4,8,2 true);
+breakfest sarah= new breakfest(2,0,0true0)
+jarxombek familey breakfeast= { jophsef, sharah};
+4. Explain in your own words - what is a getter? what does it do?
+a getter grabes a value and hoolds the value until you set it  `
+5. What is a setter? what does it do? Give an example.
+dounut choclote filled = new dounut (true,false,100)
+chocloatfilled.settemp(72)
+choclatfilled.getglazed();
+
+
+6. What is in An array of Breakfast? How would you create one?
+int []coolmubers //an array of intgers
+string coolwords //string array 
+boolean [][] blocked; //2d array 
+Breakfest[]
